@@ -82,7 +82,7 @@ border-radius: 10px;
 <div class="section">
 <h2>⚽ المباريات القادمة</h2>
 <div class="match">OBM ضد الفريق المنافس - السبت 20:00</div>
-<div class="match">OBM ضد CABBA - الجمعة 18:00</div>
+<div class="match">OBM ضد  - الجمعة 18:00</div>
 </div>
 
 </body>
