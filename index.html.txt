@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
@@ -58,7 +58,7 @@ border-radius: 10px;
 </head>
 <body>
 
-<header>❤️🤍 نادي OBM - الموقع الرسمي ❤️🤍</header>
+<header>❤️🤍 نادي أولمبي مجانة - الموقع الرسمي ❤️🤍</header>
 
 <nav>
 <a href="#">الرئيسية</a>
